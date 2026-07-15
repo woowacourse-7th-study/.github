@@ -1,15 +1,3 @@
-## member
-
-| 이름 | 김준형 | 정규원 | 전호영 |
-| :-: | :-: | :-: | :-: |
-| Github | <a href="https://github.com/jhzlo"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/HoyeongJeon"><img src="https://avatars.githubusercontent.com/u/78394999?v=4" width="64" height="64"></a> |
-<br>
-
-## study
-- [Effective Java](https://github.com/woowacourse-7th-study/effective-java)
-
-<br>
-
 ## woowacourse
 ### 3기
 | 주차 | 문제 |
